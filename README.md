@@ -2,7 +2,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maumaucb18)](https://github.com/maumaucb18)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mauricio-pignoli/)](https://www.linkedin.com/in/mauricio-pignoli/)
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working  como soldado  na Brigada Militar do esrado do Rio Grande  do SUl.
 - 🌱 I’m currently learning  javascrip e typescrip.
