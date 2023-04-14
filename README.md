@@ -10,9 +10,9 @@ I'm a {frontend, backend } developer, graduated at Development and analisys of s
 
 
 
-- 🔭 I’m currently working  como soldado  na Brigada Militar do esrado do Rio Grande  do SUl.
-- 🌱 I’m currently learning  javascrip e typescrip.
-- 👯 I’m looking to collaborate on ...projetos reais para adiquirir experiencia.
+- 🔭 I’m currently working  como soldado  na Brigada Militar do estado do Rio Grande do Sul.
+- 🌱 I’m currently learning  javascrip e typescrip especialist.
+- 👯 I’m looking to collaborate on, create my only projects for development my skills.
 
 
 - 📫 How to reach me: ...pode entrar em contato comigo através do e-mail -mauricio.pvargas@gmail.com
