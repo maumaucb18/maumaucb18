@@ -1,5 +1,5 @@
 MY skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,mysql,react,nodejs,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,laravel,html,css,php,mysql,nodejs,github)](https://skillicons.dev)
 
 
 Hi, I'm  Maurício Pignoli-
